@@ -12,7 +12,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/adrijano/KJV-Bible-Reader-GUI.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/KJV-Bible-Reader-GUI)
 
-![KJV-Bible-Reader-GUI](KJV-Bible-reader.png)
+![KJV-Bible-Reader-GUI](KJV-Bible-reader.PNG)
 
 # How it works
 ```
